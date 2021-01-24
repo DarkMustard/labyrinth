@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Labyrinth</string>
+    <string name="menu_start">START</string>
+    <string name="menu_settings">SETTINGS</string>
+    <string name="menu_about">ABOUT</string>
+    <string name="menu_exit">EXIT</string>
+    <string name="fragment_text1">Welcome to the Labyrinth!</string>
+    <string name="fragment_text2">Navigate to the exit without touching any walls.
+    If you touch one, tap to reset the level.
+    Tap the screen when close to the exit to proceed to the next level.
+    Good luck!</string>
+    <string name="fragment_text3">Nada</string>
+</resources>
